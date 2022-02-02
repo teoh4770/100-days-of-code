@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-# target/goal: complete the dev ed course, complete at least 3 projects with HTML, CSS and JS, and implement the JS in the portfolio.
+** target/goal: complete the dev ed course, complete at least 3 projects with HTML, CSS and JS, and implement the JS in the portfolio.
 
 ### Day 1/100: Feb 1, 2022
 

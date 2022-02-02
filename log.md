@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1/100: Feb 1, 2022
-# (delete me or comment me out)
 
 **Today's Progress**: I have been working on familiarize myself with JavaScript fundamental again, such as data types, comparison and logical operator, and functions 
 
@@ -9,5 +8,12 @@
 
 **Link to work: https://developedbyed.com/courses/
 
+### Day 2/100: Feb 2, 2022
+
+**Today's Progress**: Continue to work on the JS fundamental: object and array, also switch :)
+
+**Thoughts: I feel more confident to write the data structure. By learning the basics of data structures, I can now simplify and organise my code, without writing them repeatedly. 
+
+**Link to work: https://developedbyed.com/courses/
 
 

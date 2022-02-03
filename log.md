@@ -18,4 +18,11 @@
 
 **Link to work: https://developedbyed.com/courses/
 
+### Day 3/100: Feb 3, 2022
+
+**Today's Progress**: Finish all the Javascript Fundamental, including different for loop, and while loop, and complete a small Guessing Game project.
+
+**Thoughts:  From planning to executing, and eventually testing, it tooks longer time than I thought it would be. Even though the Guessing Game was a small project, I still felt proud of myself to be able to pull it out.
+
+**Link to work: https://developedbyed.com/courses/, [placeholder]
 

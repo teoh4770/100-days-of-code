@@ -26,3 +26,13 @@
 
 **Link to work: https://developedbyed.com/courses/, [placeholder]
 
+
+### Day 4/100: Feb 4, 2022
+
+**Today's Progress**: I learn 2 things today, one is that simplicity is key in programming and thinking process. I love how Dev Ed's codes are just simple and straight to the point, which makes his code looks clean(even though it is just a guessing game). The second I have learnt today is Document Object Model(DOM) selectors and the difference between the nodelist and HTMLCollection. 
+
+**Thoughts: A bit exhausting, cause I didn't break the learning plan well, and give it a go, which hugely affect my productivity today. 1 hour work becomes 3 hour works...but anyway, a lesson learnt is a lesson earned. Also, I'm excited to learn about DOM again, and apply it to my portfolio.
+
+**Link to work: https://developedbyed.com/courses/
+
+

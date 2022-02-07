@@ -35,10 +35,12 @@
 
 **Link to work: https://developedbyed.com/courses/
 
-## Day 5/100: Feb 5, 2022
+## Day 6/100: Feb 6, 2022
 
-**Today's Progress**: I finally almost finish the document object model(DOM) part, and learn about the best part of it, such as event and eventlistener. Event is stand for the action from the user, such as click, typing, and mousing, while eventlistener is the function that would be executed after the action from the user.
+**Today's Progress**: I have finished the DOMMMMM session, and learn about event bubbling, local and session storage. 
+Event bubbling is the event that trigger multiple reaction, creating the bubble effect, because they have added 2 or more event listener in the same div.
+Example, when we added a click event to the list inside the 'div', then we added another click event to the 'div'(parent) itself, and trigger the div event, it will affect the list event too.
 
-**Thoughts: Today is kind of off day for me =-=. I get distracted and watch "ALL OF US ARE DEAD", and lengthen the learning period from half an hour to 1 and a half hour. Feel kind of bad for it. I will always beware of myself about it.
+**Thoughts: My eyes shut already, after completing the EC140 homework and the coding session. Honestly, I feel quite excited after finished the DOM, and really wanna implement this in my portfolio.
 
 **Link to work: https://developedbyed.com/courses/

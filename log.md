@@ -48,4 +48,5 @@ Example, when we added a click event to the list inside the 'div', then we added
 **Today's Progress**: Start to implementing the DOM concept into making a todo list, have already finished half way.
 
 **Thoughts: Quite satisfy with my efort today. I quite surprise that I could understand and execute the steps the instructor did. #programmingisfun
-<img width="716" alt="Screenshot 2022-02-08 at 8:16:03 AM" src="https://user-images.githubusercontent.com/98545971/152994493-910d89dd-61c6-49c8-934d-4653ecfea120.png">
+
+<img width="500" alt="Screenshot 2022-02-08 at 8:16:03 AM" src="https://user-images.githubusercontent.com/98545971/152994493-910d89dd-61c6-49c8-934d-4653ecfea120.png">

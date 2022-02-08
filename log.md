@@ -16,16 +16,11 @@
 
 **Thoughts: I feel more confident to write the data structure. By learning the basics of data structures, I can now simplify and organise my code, without writing them repeatedly. 
 
-**Link to work: https://developedbyed.com/courses/
-
 ### Day 3/100: Feb 3, 2022
 
 **Today's Progress**: Finish all the Javascript Fundamental, including different for loop, and while loop, and complete a small Guessing Game project.
 
 **Thoughts:  From planning to executing, and eventually testing, it tooks longer time than I thought it would be. Even though the Guessing Game was a small project, I still felt proud of myself to be able to pull it out.
-
-**Link to work: https://developedbyed.com/courses/, [placeholder]
-
 
 ### Day 4/100: Feb 4, 2022
 
@@ -33,7 +28,11 @@
 
 **Thoughts: A bit exhausting, cause I didn't break the learning plan well, and give it a go, which hugely affect my productivity today. 1 hour work becomes 3 hour works...but anyway, a lesson learnt is a lesson earned. Also, I'm excited to learn about DOM again, and apply it to my portfolio.
 
-**Link to work: https://developedbyed.com/courses/
+### Day 5/100: Feb 5, 2022
+
+**Today's Progress**: I have started to learn about DOM selector, eventListener, and overall difference between nodeList and HTMLCollection
+
+**Thoughts: Today is like an offday for me. Learning while watching zombie movie cause me lose focus on the task at hand. An hour work -> 2 hours work...But it is still quite nice cause I have learnt quite a lot already.
 
 ## Day 6/100: Feb 6, 2022
 
@@ -44,3 +43,8 @@ Example, when we added a click event to the list inside the 'div', then we added
 **Thoughts: My eyes shut already, after completing the EC140 homework and the coding session. Honestly, I feel quite excited after finished the DOM, and really wanna implement this in my portfolio.
 
 **Link to work: https://developedbyed.com/courses/
+## Day 7/100: Feb 8, 2022
+
+**Today's Progress**: Start to implementing the DOM concept into making a todo list, have already finished half way.
+
+**Thoughts: Quite satisfy with my efort today. I quite surprise that I could understand and execute the steps the instructor did. #programmingisfun

@@ -57,11 +57,17 @@ Example, when we added a click event to the list inside the 'div', then we added
 
 **Thoughts: Although there are some bugs appear that frustrated me a bit, but I really enjoy the solving process. Besides, I finally have the ability to implement dom, and some kind of functionalities into my portfolio, and future project.
 
-![Screenshot 2022-02-09 at 08-29-01 ToDo List](https://user-images.githubusercontent.com/98545971/153210872-7626e43f-384b-447a-b8ca-17ca8e39d8a0.png)
 
-![Screenshot 2022-02-09 at 08-28-49 ToDo List](https://user-images.githubusercontent.com/98545971/153210877-091d7b57-14c5-46db-898a-8d40dd99f501.png)
+![Screenshot 2022-02-09 at 08-27-40 ToDo List](https://user-images.githubusercontent.com/98545971/153210891-6142be2a-b050-415d-b78f-1b54279942b5.png)
 
 ![Screenshot 2022-02-09 at 08-28-28 ToDo List](https://user-images.githubusercontent.com/98545971/153210883-4f400d6e-66be-4f76-9983-9cea6e64e716.png)
 
-![Screenshot 2022-02-09 at 08-27-40 ToDo List](https://user-images.githubusercontent.com/98545971/153210891-6142be2a-b050-415d-b78f-1b54279942b5.png)
+![Screenshot 2022-02-09 at 08-28-49 ToDo List](https://user-images.githubusercontent.com/98545971/153210877-091d7b57-14c5-46db-898a-8d40dd99f501.png)
+
+![Screenshot 2022-02-09 at 08-29-01 ToDo List](https://user-images.githubusercontent.com/98545971/153210872-7626e43f-384b-447a-b8ca-17ca8e39d8a0.png)
+
+
+
+
+
 

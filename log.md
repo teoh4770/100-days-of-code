@@ -67,6 +67,14 @@ Example, when we added a click event to the list inside the 'div', then we added
 ![Screenshot 2022-02-09 at 08-29-01 ToDo List](https://user-images.githubusercontent.com/98545971/153210872-7626e43f-384b-447a-b8ca-17ca8e39d8a0.png)
 
 
+## Day 9/100: Feb 10, 2022
+
+**Today's Progress**: Learn about keeping the data with localStorage, learning how to parse and stringify JSON objects, and track the real time data when the things on todo list is being added or deleted.
+
+**Thoughts: This todo project is simple enough to help me implement all the fundamental of javascript, and I sure have a lot of fun with Dev teaching style. Can't wait to do more exciting projects and go deep...
+
+
+
 
 
 

@@ -82,13 +82,15 @@ Example, when we added a click event to the list inside the 'div', then we added
 guidance.
 
 The looks of expanding cards
-![Uploading Screenshot 2022-02-12 at 13-52-37 Expanding Cards.png…]()
+
+![Screenshot 2022-02-12 at 13-52-37 Expanding Cards](https://user-images.githubusercontent.com/98545971/153724950-336fa80d-9468-4bf9-836c-708199474543.png)
 
 Whenever you click on other object, the expanded object will shrink, while the object that user just clicked will expand.
 
 ![Screenshot 2022-02-12 at 13-53-52 Expanding Cards](https://user-images.githubusercontent.com/98545971/153724432-300d9df0-e29a-452f-9bc2-f660a77ec6f4.png)
 
 Able to use it in the description section in my portfolio!!!
+
 
 
 

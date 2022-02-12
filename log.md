@@ -74,6 +74,23 @@ Example, when we added a click event to the list inside the 'div', then we added
 **Thoughts: This todo project is simple enough to help me implement all the fundamental of javascript, and I sure have a lot of fun with Dev teaching style. Can't wait to do more exciting projects and go deep...
 
 
+## Day 10/100: Feb 12, 2022
+
+**Today's Progress**: Finally finish the 1st project - Expanding Cards in Brad Traversy 50 projects in 50 days course, and just realise that I have reach 10% of my target goal to reach 100 days coding challenge.
+
+**Thoughts: This expanding cards project enables to enhance my understanding of DOM even more. Now, I am finally able to add DOM to the elements, without any 
+guidance.
+
+The looks of expanding cards
+![Uploading Screenshot 2022-02-12 at 13-52-37 Expanding Cards.png…]()
+
+Whenever you click on other object, the expanded object will shrink, while the object that user just clicked will expand.
+
+![Screenshot 2022-02-12 at 13-53-52 Expanding Cards](https://user-images.githubusercontent.com/98545971/153724432-300d9df0-e29a-452f-9bc2-f660a77ec6f4.png)
+
+Able to use it in the description section in my portfolio!!!
+
+
 
 
 

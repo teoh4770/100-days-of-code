@@ -91,6 +91,12 @@ Whenever you click on other object, the expanded object will shrink, while the o
 
 Able to use it in the description section in my portfolio!!!
 
+## Day 11/100: Feb 13, 2022
+
+**Today's Progress**: Making my portfolio responsive on both the desktop and phone. Adding expanding row bar to my portfolio for interaction. Also to practice my javascript thinking skill.
+
+**Thoughts: another day for coding ~
+
 
 
 

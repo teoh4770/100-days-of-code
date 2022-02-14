@@ -95,7 +95,7 @@ Able to use it in the description section in my portfolio!!!
 
 \*\*Thoughts: another day for coding ~
 
-## Day 12/100: Feb 13, 2022
+## Day 12/100: Feb 14, 2022
 
 **Today's Progress**: I continue the Dev Ed course today after completing a project and adding changes to my portfolio. I am currently in chapter 4 - Arrays, and has learnt about the difference between primitives and reference data types, callbacks, higher order functions and "difference between forEach and map function".
 

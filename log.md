@@ -100,3 +100,13 @@ Able to use it in the description section in my portfolio!!!
 **Today's Progress**: I continue the Dev Ed course today after completing a project and adding changes to my portfolio. I am currently in chapter 4 - Arrays, and has learnt about the difference between primitives and reference data types, callbacks, higher order functions and "difference between forEach and map function".
 
 \*\*Thoughts: I am really enjoying coding right now. And now I realise that if I keep going do the project without continue the course, I will lose way much time, finding the resources about array and object methods by myself, which now I think about it, is a very good decision. :> Lez's goooo
+
+- These are codes that I follow along, and the notes I made myself so far ~
+
+- this one is primative vs reference data type
+![Screenshot 2022-02-14 at 8 54 56 AM](https://user-images.githubusercontent.com/98545971/153878094-29d2d2ef-918f-4f92-b3d9-c1d829a410b4.png)
+
+- this one is talking about callback, and higher order functions + map function
+![Screenshot 2022-02-14 at 8 55 08 AM](https://user-images.githubusercontent.com/98545971/153878254-4192aecd-c2b0-4378-a2c8-1e8093b1441f.png)
+
+

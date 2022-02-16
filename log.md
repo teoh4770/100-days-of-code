@@ -104,9 +104,11 @@ Able to use it in the description section in my portfolio!!!
 - These are codes that I follow along, and the notes I made myself so far ~
 
 - this one is primative vs reference data type
+
 ![Screenshot 2022-02-14 at 8 54 56 AM](https://user-images.githubusercontent.com/98545971/153878094-29d2d2ef-918f-4f92-b3d9-c1d829a410b4.png)
 
 - this one is talking about callback, and higher order functions + map function
+
 ![Screenshot 2022-02-14 at 8 55 08 AM](https://user-images.githubusercontent.com/98545971/153878254-4192aecd-c2b0-4378-a2c8-1e8093b1441f.png)
 
 

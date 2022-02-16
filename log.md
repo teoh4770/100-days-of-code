@@ -111,4 +111,10 @@ Able to use it in the description section in my portfolio!!!
 
 ![Screenshot 2022-02-14 at 8 55 08 AM](https://user-images.githubusercontent.com/98545971/153878254-4192aecd-c2b0-4378-a2c8-1e8093b1441f.png)
 
+## Day 13/100: Feb 15, 2022
+
+**Today's Progress**: Follow along with Ed to learn more array methods, like 'find', 'filter', 'some', 'every'. I also learn about ternary operator that I always don't understand, and finally I have learnt about arrowFunction, which make function looks way too cleannnn!
+
+\*\*Thoughts: Besides learning the general use of the methods, you have to understand the basic logics inside all of them. #anotherdayanothercoding
+
 

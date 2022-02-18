@@ -117,4 +117,10 @@ Able to use it in the description section in my portfolio!!!
 
 \*\*Thoughts: Besides learning the general use of the methods, you have to understand the basic logics inside all of them. #anotherdayanothercoding
 
+## Day 14/100: Feb 17, 2022
+
+**Today's Progress**: Just finish the "array" section. I have learnt about the last "sort" method, that can be used to sort string in alphabetical order, and numbers in ascending or descending order. I can't wait to learn about objects and OOP.
+
+\*\*Thoughts: Tired, exhausted...but still keep learning to code, to build up the fundamental.
+
 
